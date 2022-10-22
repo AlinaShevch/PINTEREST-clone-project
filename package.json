@@ -1,0 +1,23 @@
+{
+  "name": "pinterest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaShevch/PINTEREST-clone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlinaShevch/PINTEREST-clone-project/issues"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
